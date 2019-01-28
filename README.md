@@ -1,5 +1,5 @@
 # DevOps-Project
-Vagrant, Ansible, Docker, Git/github and Jenkins. Ready to deploy infrastructure.
+Vagrant, Ansible, Docker, Git/GitHub and Jenkins. Ready to deploy infrastructure.
 
 These files can be used for provisioning DevOps Environment using:
 
